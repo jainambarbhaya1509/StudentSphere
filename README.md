@@ -21,7 +21,7 @@ Python Student RMS is a simple student record management system implemented in P
    ```
    git clone https://github.com/jainambarbhaya1509/Python-Student-RMS.git
    ```
-2. Export the `python_mini_project.sql` file in MySQL Database.
+2. Import the `python_mini_project.sql` file in MySQL Database.
 
 3. Change to the project directory:
    ```
