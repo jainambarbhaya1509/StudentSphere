@@ -33,7 +33,13 @@ Python Student RMS is a simple student record management system implemented in P
    ```
 
 ## Usage    
-The application provides a simple command-line interface for interacting with the student record management system. Once the application is running, you will be presented with a menu of options to choose from. Simply follow the prompts and enter the required information to perform various operations.    
+The application provides a simple graphical user interface for interacting with the student record management system. Once the application is running, you will be presented with a menu of options to choose from. Simply follow the prompts and enter the required information to perform various operations.    
+
+## Demo
+
+https://github.com/jainambarbhaya1509/Python-Student-RMS/assets/78131937/3728064a-3561-47dd-ba83-8535b1cb5a61
+
+
 
 ## Contributing    
 Contributions to the Python Student RMS project are always welcome. If you find any issues or would like to suggest enhancements, please open an issue or submit a pull request.    
