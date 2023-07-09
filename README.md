@@ -37,7 +37,7 @@ The application provides a simple graphical user interface for interacting with 
 
 ## Demo
 
-https://github.com/jainambarbhaya1509/Python-Student-RMS/assets/78131937/3728064a-3561-47dd-ba83-8535b1cb5a61
+[Project Demo](https://github.com/jainambarbhaya1509/Python-Student-RMS/assets/78131937/3728064a-3561-47dd-ba83-8535b1cb5a61)
 
 
 
